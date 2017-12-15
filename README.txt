@@ -1,0 +1,1 @@
+saida 1 -> mutation = 0,01    population = 100
